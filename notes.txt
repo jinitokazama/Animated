@@ -1,0 +1,9 @@
+this.removeFromWorld = trues for fireball entity
+focus on towers
+less on enemies basically
+whenever mouse clicks on canvas 
+make sure the marine locations actually corresponds to where the mouse points
+only one tower defender per tile (also possibly if marine placement can be in center of tile is possible)
+
+From Class: In draw method, only draw and check current state
+update gets called before draw
